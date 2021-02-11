@@ -25,7 +25,7 @@
             <div class="col-sm-12 col-md">
                 <div class="heading text-center my-5">
                     <h2>Welcome to</h2>
-                    <h1>TSF Bank</h1>
+                    <h1>Swati  Bank</h1>
                 </div>
             </div>
             <div class="col-sm-12 col-md img text-center">
@@ -57,7 +57,7 @@
     </div>
 
     <footer class="text-center mt-5 py-2">
-        <p>&copy 2021. Made by <b>Simran Srivastava</b><br>GRIP TheSparksFoundation.</p>
+        <p>&copy 2021. Made by <b>Swati Pandao</b><br>GRIP TheSparksFoundation.</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js" integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU" crossorigin="anonymous"></script>
